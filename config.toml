@@ -1,4 +1,4 @@
-baseURL = "http://self-contained.netlify.app/"
+baseURL = "https://self-contained.netlify.app/"
 languageCode = "en-us"
 title = "Self Contained Gardens"
 theme = "ananke"
