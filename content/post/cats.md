@@ -10,4 +10,6 @@ Join our Cats with Talent Program.
 Help under-achieving cats fulfill their potential.  
 Donations welcome. SEND CASH NOW!  
 Help cats like Chomsky to be the best they can.    
-![chomsky selfie](/images/chomsky.jpg)
+
+{{< figure src="/images/chomsky.jpg" title="Chomsky, Porto 2019" >}}
+
